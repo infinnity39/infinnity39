@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infinnity39
+- 👋 Hi, I’m infinnity
 - 👀 I’m interested in Discord Bots and Javascript
 - 📷 I'm a very experienced Video Editor
 - 🌱 I’m currently learning Website Development
