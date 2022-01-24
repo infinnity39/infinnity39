@@ -1,7 +1,7 @@
 - 👋 Hi, I’m infinnity
-- 👀 I’m interested in Discord Bots and Javascript
+- 👀 I’m good in HTML/CSS/JS (node.js)
 - 📷 I'm a very experienced Video Editor
-- 🌱 I’m currently learning Website Development
+- 🌱 I’m currently learning c++ for Arduino
 - 📫 How to reach me: infinnity#1000 on Discord
 
 <!---
