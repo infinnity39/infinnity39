@@ -1,7 +1,7 @@
 - 👋 Hi, I’m infinnity
-- 👀 I’m good in HTML/CSS/JS (node.js)
-- 📷 I'm a very experienced Video Editor
-- 🌱 I’m currently learning C++ for Arduino and C#
+- 👀 HTML/CSS/JS & C# & node.js & electron
+- 📷 Experienced Video Editor
+- 🌱 Currently learning UI/UX design
 - 📫 How to reach me: infinnity#1000 on Discord
 
 <!---
